@@ -1,0 +1,4 @@
+Adafruit_Sensor
+Adafruit_ADXL345_U
+TinyGPS++
+SoftwareSerial
